@@ -82,12 +82,6 @@ This repository documents the project; it does **not** contain the original n8n 
 - The public repository intentionally excludes workflow exports, credentials, customer records, and private webhook URLs. Add a sanitized workflow export only after reviewing it for secrets and personal data.
 - Cancellation-to-retentions routing is a possible extension and is not described as implemented here.
 
-## Next steps
-
-- Add a sanitized n8n workflow export and screenshots after a secrets review.
-- Add evaluation examples for correct retrieval, escalation decisions, and failure handling.
-- Deploy the chat interface and n8n workflow to a secure environment with appropriate access controls.
-
 ## Disclaimer
 
 Vodafone and related marks belong to their respective owners. Public support information is referenced only to demonstrate a personal learning project. This repository is not an official Vodafone product or service.
