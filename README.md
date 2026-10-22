@@ -35,6 +35,15 @@ flowchart TD
     O --> P[Index chunks in Qdrant]
     P --> F
 ```
+## Workflow screenshots
+
+![SupportPilot workflow screenshot 1](./0776B825-17F1-4DC5-9306-4B9D211F2E08.png)
+
+![SupportPilot workflow screenshot 2](./0E3C9476-E81E-4904-B84E-1F3833B53FA7.png)
+
+![SupportPilot workflow screenshot 3](./3A222F79-5B3A-4C1C-8A1F-9DD4B780FA20.png)
+
+![SupportPilot workflow screenshot 4](./CDF4B77F-3E30-4B71-8EC8-FB18FFB66E68.png)
 
 ## Tools
 
